@@ -43,6 +43,6 @@ npm run dev
 
 ## Autor
 
-Desenvolvido por Pamela Andrade
-linkedin.com/in/seuusuario
-github.com/seu-usuario
+Desenvolvido por Pamela Andrade    
+linkedin.com/in/seuusuario     
+github.com/seu-usuario      
