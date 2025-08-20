@@ -45,4 +45,8 @@ npm run dev
 
 Desenvolvido por Pamela Andrade    
 linkedin.com/in/seuusuario     
+<<<<<<< HEAD
 github.com/seu-usuario      
+=======
+github.com/seu-usuario      
+>>>>>>> 9a8dcef (Alterado readme)
