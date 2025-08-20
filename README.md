@@ -23,12 +23,6 @@ Aplicação web para consulta de preços de veículos baseada na Tabela FIPE. De
 
 ---
 
-## Preview da interface
-
-![Preview da aplicação](https://via.placeholder.com/800x400.png?text=Consulta+FIPE+Preview)
-
----
-
 ## Como executar localmente
 
 1. Clone o repositório:
@@ -40,11 +34,11 @@ cd consulta-fipe
 2. Instale as dependências:
 ```bash
 npm install
-
+```
 3. Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
-
+```
 4. Acesse: http://localhost:3000
 
 ## Autor
