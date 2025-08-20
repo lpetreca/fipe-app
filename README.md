@@ -36,7 +36,7 @@ Aplicação web para consulta de preços de veículos baseada na Tabela FIPE. De
 ```bash
 git clone https://github.com/seu-usuario/consulta-fipe.git
 cd consulta-fipe
-
+```
 2. Instale as dependências:
 ```bash
 npm install
